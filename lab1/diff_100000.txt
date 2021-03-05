@@ -1,0 +1,6 @@
+The numerical value of the integral =  6.28318530714630529843e+00
+
+Duration is: 1.36431999999999994250e-02 seconds
+
+Diff is: 3.32809335645833925810e-11
+
